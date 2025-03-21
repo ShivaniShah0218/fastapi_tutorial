@@ -2,9 +2,9 @@
 This project is a simple web application built using FastAPI. It performs the CRUD operations for registering the user and storing in the database. For this project, we are using SQLite database, since python has in-built support for it.
 
 ## Table of Contents
-- [Technologies Used]
-- [Installation]
-- [Usage]
+- Technologies Used
+- Installation
+- Usage
 
 ## Technologies Used
 - OS: Windows 10
